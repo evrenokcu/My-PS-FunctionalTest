@@ -45,6 +45,7 @@ public class Main {
 
     class xxx{
         private final int macBook =1;
+        private final int imac =2;
 
     }
 }
